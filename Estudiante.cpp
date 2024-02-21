@@ -1,5 +1,6 @@
 #include "Persona.cpp"
 #include <iostream>
+// comentario en la calse persona
 using namespace std;
 class Estudiante : Persona {
 	// atributos 
